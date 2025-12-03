@@ -1,6 +1,6 @@
 # VIVT-django
-Как django_sprint1, только с БД.
-<img width="1692" height="889" alt="image" src="https://github.com/user-attachments/assets/2e20b1c8-6012-40da-937d-4d4c3475fffc" />
+Как django_sprint1, только с БД. Данные для БД находятся в файле db.json.
+<img width="1640" height="989" alt="image" src="https://github.com/user-attachments/assets/7670f5c3-dce8-4f7b-a0fc-d485475cb1bb" />
 
 ## 🚀 Как запустить
 ```bash
